@@ -1,3 +1,3 @@
-print("Hello Jenny...")
-print("Hello Eli")
-print("Hello Alex")
+names = ["Jenny", "Alex", "Eli"]
+
+print(names[0])
